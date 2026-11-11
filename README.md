@@ -46,4 +46,4 @@ Python 3.8+ (sem bibliotecas externas).
 
 ## Autores
 
-Equipe do projeto (disciplina de Estruturas de Dados / Lógica de Programação).
+Maria Luiza Coelho
